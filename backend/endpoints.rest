@@ -1,0 +1,21 @@
+GET http://localhost:8080/professional
+
+{
+    "professionalName": "This is the Name of the person",
+    "base64Image": "Image representing the person",
+    "nameLink": {
+        "firstName": "The name of the person",
+        "link": "The link the user will be sent to when the name is clicked"
+    },
+    "primaryDescription": "Main description of the person",
+    "workDescription1": "Work experience",
+    "workDescription2": "More work experience",
+    "linkTitleText": "Name of the link",
+    "guthubLink": {
+        "text": "GitHub profile or repository",
+        "link": "link to the person's profile"
+    }
+
+}
+
+###

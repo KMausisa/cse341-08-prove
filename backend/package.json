@@ -1,0 +1,26 @@
+{
+  "name": "08-prove-backend",
+  "version": "1.0.0",
+  "description": "build and application that already has an existing frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMausisa/cse341-08-prove.git"
+  },
+  "author": "Kendrick Mausisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KMausisa/cse341-08-prove/issues"
+  },
+  "homepage": "https://github.com/KMausisa/cse341-08-prove#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {}
+}
